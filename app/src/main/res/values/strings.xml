@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginFirebase</string>
+
+    <string name="btninicio">Iniciar Sesión</string>
+    <string name="btnregistrarse">Registrarse</string>
+
+    <string name="etmail">Escribe tu correo</string>
+    <string name="etpass">Escribe tu contraseña</string>
+    <string name="btnsesion">Iniciar Sesión</string>
+
+    <string name="etmailreg">Escriba un correo</string>
+    <string name="etpassreg">Escriba una contraseña</string>
+    <string name="etvpass">Verifique su contraseña</string>
+    <string name="btnregistrarr">Registrarse</string>
+</resources>
